@@ -1,2 +1,2 @@
-# Transition_Page
-TTraining to make transition page
+# init-project
+Installation folder for projects
